@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class gsearch < Formula
+class Gsearch < Formula
   desc "Ultra-fast and Scalable Microbial Genome Search Program based on Various MinHash-like Metrics and HNSW written in Rust"
   homepage "https://github.com/jean-pierreBoth/gsearch"
   url "https://github.com/jean-pierreBoth/gsearch/releases/download/v0.1.3-beta/GSearch_v0.1.3_Darwin_universal.tar.gz"
