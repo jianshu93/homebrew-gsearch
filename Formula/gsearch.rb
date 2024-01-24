@@ -4,9 +4,9 @@
 class Gsearch < Formula
   desc "Ultra-fast and Scalable Microbial Genome Search Program based on Various MinHash-like Metrics and HNSW written in Rust"
   homepage "https://github.com/jean-pierreBoth/gsearch"
-  url "https://github.com/jianshu93/gsearch/releases/download/v0.1.7/GSearch_macos_universal_v0.1.3.tar.gz"
-  sha256 "275f89ff36b083efe42ab1b107c71d8be3ba9bd627f772cc63eece4118cf7c06"
-  version "0.1.7"
+  url "https://github.com/jianshu93/gsearch/releases/download/v0.1.8/GSearch_macos_universal_v0.1.3.tar.gz"
+  sha256 "e2ee95c8dfa01d3407838323e0f0f7ad27177e6eb57d077a393ffc475617831f"
+  version "0.1.8"
 
   def install
     bin.install "gsearch"
