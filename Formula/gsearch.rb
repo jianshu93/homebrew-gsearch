@@ -10,5 +10,6 @@ class Gsearch < Formula
 
   def install
     bin.install "gsearch"
+    bin.install "reformat"
   end
 end
