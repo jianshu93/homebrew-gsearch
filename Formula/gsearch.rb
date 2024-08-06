@@ -15,6 +15,6 @@ class Gsearch < Formula
     bin.install "superaai"
     bin.install "hnswcore"
     bin.install "FragGeneScanRs"
-    bin.install "hmmsearch"
+    bin.install "hmmsearch_rs"
   end
 end
